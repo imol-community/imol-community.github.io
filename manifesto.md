@@ -1,0 +1,11 @@
+---
+layout: page
+title: Manifesto
+subtitle: Seminal papers of the IMOL community.
+---
+
+<div class='description' style='font-size: 11pt;'>
+
+bla bla
+</div>
+
