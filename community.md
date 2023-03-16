@@ -1,8 +1,16 @@
 ---
 layout: page
-title: IMOL Board
-subtitle: Current members of the IMOL Board
+title: The IMOL Community
 ---
+
+
+
+The IMOL community is organized in two levels: the board and the members. 
+
+
+<h3 style='margin-bottom: 20pt;'>Current Members of the Board</h3>
+
+
 
 <div class='row'>
   <div class="col-3">
@@ -241,3 +249,15 @@ Stephane Doncieux received a PhD from Université Pierre and Marie Curie in 2003
 		</div>
   </div>
 </div>
+
+
+<h3 style='margin-bottom: 20pt;'>Members of the IMOL Community</h3>
+
+<div class='description' style='font-size: 11pt;'>
+Here is the list of IMOL members:
+</div>
+
+<ul>
+<li> FirstName LastName, Position (Affiliation)
+</li>
+</ul>

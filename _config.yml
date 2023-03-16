@@ -14,11 +14,14 @@ author: IMOL Board
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "home"
   Manifesto: "manifesto"
-  Activities: "activities"
-  References: "references"
-  Board: "board"
+  Conference 2023: "conference"
+  Community: "community"
+  Participate: "participate"
   Jobs: "jobs"
+  Resources: "resources"
+  Archive: "archive"
   Contact: "contact"
 
 # --- Logo --- #

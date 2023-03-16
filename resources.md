@@ -1,12 +1,10 @@
 ---
 layout: page
-title: References
-subtitle: Background Literature of the IMOL community.
+title: Resources
 ---
 
 
-<h3 style='margin-bottom: 10pt;'>Theoretical and Review Literature</h3>
-<br>
+<h3 style='margin-bottom: 20pt;'>Frameworks and Reviews</h3>
 
 <div class='description' style='font-size: 11pt;'>
 <ul>
@@ -34,8 +32,7 @@ IEEE. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6037367&casa
 </div>
 <br>
 
-<h3 style='margin-bottom: 10pt;'>Theoretical and Review Literature</h3>
-<br>
+<h3 style='margin-bottom: 20pt;'>Other Relevant Literature</h3>
 <div class='description' style='font-size: 11pt;'>
 <ul>
 <li>Colas, C., Karch, T., Moulin-Frier, C. et al. Language and culture internalization for human-like autotelic AI. Nat Mach Intell 4, 1068–1076 (2022). <a href="https://arxiv.org/pdf/2206.01134.pdf">Link</a>.</li>
