@@ -4,9 +4,13 @@ title: The IMOL Community
 ---
 
 
-
+<div style="font-size: 14pt; margin-bottom: 10pt">
 The IMOL community is organized in two levels: the board and the members. 
 
+The board organizes the IMOL community. They evaluate the applications of candidate members and coordinate the main IMOL activities.
+
+Members are the lifeforce of the IMOL community. They propose activities such as conferences, special issues, or seminars and regularly meet with the whole community at these occasions.
+</div>
 
 <h3 style='margin-bottom: 20pt;'>Current Members of the Board</h3>
 
@@ -250,14 +254,17 @@ Stephane Doncieux received a PhD from Université Pierre and Marie Curie in 2003
   </div>
 </div>
 
+<br>
+<br>
 
 <h3 style='margin-bottom: 20pt;'>Members of the IMOL Community</h3>
 
-<div class='description' style='font-size: 11pt;'>
+<div class='description' style='font-size: 14pt;'>
 Here is the list of IMOL members:
-</div>
 
 <ul>
-<li> FirstName LastName, Position (Affiliation)
-</li>
+<li> FirstName LastName, Position (Affiliation), since startDate, link to website</li>
 </ul>
+
+To become an IMOL member, apply <a href="../participate">here</a>.
+</div>

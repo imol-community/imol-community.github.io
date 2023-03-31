@@ -1,46 +1,37 @@
 ---
 layout: page
-title: Activities
-subtitle: Past and future events of the IMOL community
+title: Participate
+subtitle: Join the IMOL community!
 ---
 
-<h3 style='margin-bottom: 10pt;'>Future events</h3>
 <br>
+<h3 style='margin-bottom: 15pt;'>Become a Member</h3>
 
-<div class='description' style='font-size: 14pt;'>
+<div style="font-size: 14pt; margin-bottom: 10pt">
+Researchers working on topics covered by the IMOL community (see <a href="../manifesto">manifesto</a>) can apply to become a member (see list in 
+<a href="../community">community</a>) by filling <a href="https://forms.gle/mfLnYzYPvzsBV1cb7" target="_blank"> this form</a>. The applications will be reviewed by the board. 
+</div>
 
-<p><b>Conference IMOL 2023</b></p>
-<p>Location: Paris, France
-<br>Dates: 13th-15th of September 2023
-<br>Website: <a href="https://2023.imol-conf.org/"> https://2023.imol-conf.org/ </a> (to be uploaded)
-</p>
+<h3 style='margin-bottom: 15pt;'>Benefits for members</h3>
 
-
-
-<br>
-
-<h3 style='margin-bottom: 10pt;'>Past events</h3>
-<br>
-<div class='description' style='font-size: 14pt;'>
+<div style="font-size: 14pt; margin-bottom: 10pt">
+The main advantage of joining this community is to have direct contact with the network of researchers and research groups dealing with the topics mentioned above. Not only in 
+workshops and other in-person meetings, but through a mailing list and a series of resources aimed at stimulating scientific debate and facilitating concrete research collaborations.
 
 
-<p><b>Conference IMOL 2022</b></p>
-<p>Location: Tübingen, Germany
-<br>Dates: 4th-6th of April 2022
-<br>Website: <a href="https://2022.imol-conf.org/"> https://2022.imol-conf.org/ </a>
-</p>
-
-<p><b>Conference IMOL 2022</b></p>
-<p>Location: Frankfurt, Germany
-<br>Dates: 1st-3rd of July 2019
-<br>Website: <a href=" https://2019.imol-conf.org/">  https://2019.imol-conf.org/ </a>
-</p>
-
-<p><b>Conference IMOL 2017</b></p>
-<p>Location: Rome, Italy
-<br>Dates: 4th-6th of October 2017
-<br>Website: <a href="https://2017.imol-conf.org/ "> https://2017.imol-conf.org/ </a>
-</p>
+</div>
 
 
+<h3 style='margin-bottom: 15pt;'>IMOL activities</h3>
 
+<div style="font-size: 14pt; margin-bottom: 10pt">
+Members of the IMOL community can use the IMOL brand and recruit IMOL members to support the organization of activities. This includes: 
+<ul>
+<li>conferences</li>
+<li>special issues</li>
+<li>seminars</li>
+<li>talks</li>
+<li>competitions</li>
+<li>etc</li>
+</ul>
+</div>
