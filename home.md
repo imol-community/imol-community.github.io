@@ -5,11 +5,15 @@ title: Welcome to the IMOL Community
 
  <img src="/assets/img/imol2022.jpg" alt="Group picture of IMOL 2022 in Tubingen">
 
+<div class='description' style='font-size: 14pt; margin-top: 25pt'>
+
+<b>Join us at the IMOL Conference on September 13-15 in Paris! More info <a href="https://imolconf2023.github.io/">here</a></b>.
+</div>
 
 <h3 style='margin-bottom: 20pt;'>Intrinsically Motivated Open-Ended Learning</h3>
 
 <div class='description' style='font-size: 14pt;'>
-IMOL first launched as a biennial workshop in 2009 in Venice. Since then, it has spontanesouly and steadily grown into a true research community, bringing together researchers 
+IMOL first launched as a biennial workshop in 2009 in Venice. Since then, it has spontaneously and steadily grown into a true research community, bringing together researchers 
 from a diversity of fields. IMOL researchers are interested in the study of autonomous learning processes and in the development of artificial intelligent systems able to 
 autonmously acquire knowledge and skills <i>for their own sake</i>, through interactions with their environment. 
 In particular, IMOL focuses on the role of intrinsic motivations in supporting this process of autonomous development within embodied artificial agents. 
@@ -23,7 +27,7 @@ enterprise towards more autonomous and versatile artificial agents.
 <h3 style='margin-bottom: 20pt;'>Upcoming Conference</h3>
 
 <div class='description' style='font-size: 14pt;'>
-The 2023 IMOL Conference will take place in Paris on September 13-15! Interested? Find the details <a href="/conference">here</a>. </div>
+The 2023 IMOL Conference will take place in Paris on September 13-15! Interested? Find the details <a href="https://imolconf2023.github.io/">here</a>. </div>
 
 
 
@@ -45,6 +49,6 @@ Here are the latest news of the IMOL community:
 </div>
 <div class='description' style='font-size: 14pt;'>
 <ul>
-<li> The IMOL 2023 Conference will take place in Paris on September 13-15. Learn more <a href="/conference">here</a>.</li>
+<li> The IMOL 2023 Conference will take place in Paris on September 13-15. Learn more <a href="https://imolconf2023.github.io/">here</a>.</li>
 </ul>
 </div>

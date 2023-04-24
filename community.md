@@ -5,11 +5,31 @@ title: The IMOL Community
 
 
 <div style="font-size: 14pt; margin-bottom: 10pt">
-The IMOL community is organized in two levels: the board and the members. 
+The IMOL community is organized at two levels: the IMOL Board and the IMOL Members. 
+</div>
 
-The board organizes the IMOL community. They evaluate the applications of candidate members and coordinate the main IMOL activities.
+<h3 style='margin-bottom: 20pt;'>IMOL Board</h3>
+<div style="font-size: 14pt; margin-bottom: 10pt">
+The IMOL Board is the steering and management body of the IMOL community. In particular, the Board carries out these activities:
 
-Members are the lifeforce of the IMOL community. They propose activities such as conferences, special issues, or seminars and regularly meet with the whole community at these occasions.
+<ul style="margin-top: 10pt">
+<li>Plans the strategies to develop the IMOL Community and for its overall activities</li>
+<li>Selects and directs the main activities of the IMOL Community, such as workshops, special issues, outreach and so forth</li>
+<li>Evaluates and approves the applications of candidate IMOL Members</li>
+<li>Evaluates and approves the new activities proposed by the IMOL Members, and delegates specific Members for their organisation and implementation</li>
+<li>Represents the IMOL community in relations with other communities and associations</li>
+</ul>
+</div>
+
+<h3 style='margin-bottom: 20pt;'>IMOL Members</h3>
+<div style="font-size: 14pt; margin-bottom: 10pt">
+The IMOL Members are the lifeforce of the IMOL community. The IMOL Members contribute to the development of the IMOL Community with these activities:
+
+<ul style="margin-top: 10pt">
+<li>Contribute to publicise the existence of the IMOL Community, and invite potentially interested people to apply for IMOL Membership</li>
+<li>Propose activities such as the participation of the IMOL Community in conferences, the organisation of special issues on IMOL topics, the organisation of seminars</li>
+<li>Participate in the IMOL Community’s activities and meetings at will</li>
+</ul>
 </div>
 
 <h3 style='margin-bottom: 20pt;'>Current Members of the Board</h3>
