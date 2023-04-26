@@ -15,7 +15,7 @@ title: Welcome to the IMOL Community
 <div class='description' style='font-size: 14pt;'>
 IMOL first launched as a biennial workshop in 2009 in Venice. Since then, it has spontaneously and steadily grown into a true research community, bringing together researchers 
 from a diversity of fields. IMOL researchers are interested in the study of autonomous learning processes and in the development of artificial intelligent systems able to 
-autonmously acquire knowledge and skills <i>for their own sake</i>, through interactions with their environment. 
+autonomously acquire knowledge and skills <i>for their own sake</i>, through interactions with their environment. 
 In particular, IMOL focuses on the role of intrinsic motivations in supporting this process of autonomous development within embodied artificial agents. 
 
 This website is the major connecting portal for the IMOL community. It promotes the exchange of ideas, interactions, tools and cumulative results supporting the 

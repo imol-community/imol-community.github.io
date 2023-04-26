@@ -17,7 +17,7 @@ subtitle: Past activities of the IMOL community
 <br>Website: <a href="https://2022.imol-conf.org/"> https://2022.imol-conf.org/ </a>
 </p>
 
-<p><b>Conference IMOL 2022</b></p>
+<p><b>Conference IMOL 2019</b></p>
 <p>Location: Frankfurt, Germany
 <br>Dates: 1st-3rd of July 2019
 <br>Website: <a href=" https://2019.imol-conf.org/">  https://2019.imol-conf.org/ </a>
