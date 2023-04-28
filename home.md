@@ -41,7 +41,7 @@ href="/participate">here</a>. Members actively participate in keeping the commun
 
 
 
-
+<!--
 <h3 style='margin-bottom: 20pt;'>News</h3>
 
 <div class='description' style='font-size: 14pt;margin-bottom: 10pt'>
@@ -52,3 +52,4 @@ Here are the latest news of the IMOL community:
 <li> The IMOL 2023 Conference will take place in Paris on September 13-15. Learn more <a href="https://imolconf2023.github.io/">here</a>.</li>
 </ul>
 </div>
+-->
