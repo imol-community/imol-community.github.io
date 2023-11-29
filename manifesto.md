@@ -5,7 +5,7 @@ title: Manifesto
 
 
 
-<h3 style='margin-bottom: 20pt;'>Context and aim</h3>
+<h3 style='margin-bottom: 20pt;'>Context and Aim</h3>
 
 <div class='description' style='font-size: 14pt;'>
 Intrinsically Motivated Open-ended Learning (IMOL) is one of the most exciting areas of autonomous/developmental robotics and machine learning/developmental AI. 
@@ -16,7 +16,7 @@ This website is the major connecting portal for the community of researchers, pr
 tools and cumulative results.
 </div>
 
-<h3 style='margin-bottom: 20pt;'>Problem and solutions</h3>
+<h3 style='margin-bottom: 20pt;'>Problem and Solutions</h3>
 
 <div class='description' style='font-size: 14pt;'>
 <p>The development of artificial agents with the capacity to learn how to interact with the environment from only little prior knowledge and without constant human supervision is 

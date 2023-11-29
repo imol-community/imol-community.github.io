@@ -7,7 +7,7 @@ title: Welcome to the IMOL Community
 
 <div class='description' style='font-size: 14pt; margin-top: 25pt'>
 
-<b>Join us at the IMOL Conference on September 13-15 in Paris! More info <a href="https://imolconf2023.github.io/">here</a></b>.
+<b>Join us at the IMOL Workshop at NeurIPS 2023 in New Orleans, USA! More info <a href="https://imol-workshop.github.io/">here</a></b>.
 </div>
 
 <h3 style='margin-bottom: 20pt;'>Intrinsically Motivated Open-Ended Learning</h3>
@@ -24,11 +24,10 @@ enterprise towards more autonomous and versatile artificial agents.
 
 
 
-<h3 style='margin-bottom: 20pt;'>Upcoming Conference</h3>
+<h3 style='margin-bottom: 20pt;'>Upcoming Worskhop</h3>
 
 <div class='description' style='font-size: 14pt;'>
-The 2023 IMOL Conference will take place in Paris on September 13-15! Interested? Find the details <a href="https://imolconf2023.github.io/">here</a>. </div>
-
+An IMOL Workshop will take place at the NeurIPS conference in New Orleans on Dec 16th 2024. Learn more <a href="https://imol-workshop.github.io/">here</a>. </div>
 
 
 
@@ -37,6 +36,7 @@ The 2023 IMOL Conference will take place in Paris on September 13-15! Interested
 <div class='description' style='font-size: 14pt;'>
 Does your research intersect with the interests of IMOL? You can join the <a href="/community">IMOL community</a> and become a member by applying <a 
 href="/participate">here</a>. Members actively participate in keeping the community alive and flourishing via the organization of a diversity of events and discussions.
+You can join the google group <a href="https://groups.google.com/g/imol-community">here</a>: connect with a google account and ask to join!
 </div>
 
 

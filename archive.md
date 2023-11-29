@@ -10,6 +10,11 @@ subtitle: Past activities of the IMOL community
 <br>
 <div class='description' style='font-size: 14pt;'>
 
+<p><b>Conference IMOL 2023</b></p>
+<p>Location: Paris, France
+<br>Dates: 13th-15th of September 2023
+<br>Organisers: Stéphane Doncieux, Georg Martius, Rania Rayyes, Vieri Giuliano Santucci, Gianluca Baldassarre
+</p>
 
 <p><b>Conference IMOL 2022</b></p>
 <p>Location: Tübingen, Germany

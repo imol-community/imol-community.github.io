@@ -5,6 +5,11 @@ subtitle: Join the IMOL community!
 ---
 
 <br>
+<h3 style='margin-bottom: 15pt;'>Join the Mailing List</h3>
+<div style="font-size: 14pt; margin-bottom: 10pt">
+You can join the IMOL google group <a href="https://groups.google.com/g/imol-community">here</a>: connect with a google account and ask to join!
+</div>
+
 <h3 style='margin-bottom: 15pt;'>Become a Member</h3>
 
 <div style="font-size: 14pt; margin-bottom: 10pt">
