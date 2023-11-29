@@ -282,9 +282,6 @@ Stephane Doncieux received a PhD from Université Pierre and Marie Curie in 2003
 <div class='description' style='font-size: 14pt;'>
 Here is the list of IMOL members:
 
-<ul>
-<li> FirstName LastName, Position (Affiliation), since startDate, link to website</li>
-</ul>
 
-To become an IMOL member, apply <a href="../participate">here</a>.
+To become an IMOL member, apply <a href="../participate">here</a>. To get your name removed from this list, send an email to <a href="mailto:contact@imol-community.org">here</a>.
 </div>

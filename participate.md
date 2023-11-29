@@ -14,7 +14,7 @@ Researchers working on topics covered by the IMOL community (see <a href="../man
 
 <div style="font-size: 14pt; margin-bottom: 10pt">
 
-The  application will be reviewed by the IMOL Board. The community is very open, with few criteria for inclusion: 
+The application will be reviewed by the IMOL Board (monthly review). The community is very open, with few criteria for inclusion: 
 <ol type="a" style="margin-top: 10pt">
 <li>manifestation of interest in the IMOL field;</li>
 <li>research in topics potentially relevant for IMOL, such as autonomous or developmental robotics, machine learning, psychology or neuroscience of learning, AI ethics, etc.</li>
