@@ -280,8 +280,40 @@ Stephane Doncieux received a PhD from Université Pierre and Marie Curie in 2003
 <h3 style='margin-bottom: 20pt;'>Members of the IMOL Community</h3>
 
 <div class='description' style='font-size: 14pt;'>
+To become an IMOL member, apply <a href="../participate">here</a>. To get your name removed from this list, send an email to <a href="mailto:contact@imol-community.org">here</a>.
+
 Here is the list of IMOL members:
 
+* Richard Duro, Professor (Universidade da Coruña), added on 08/2023.
+* Vieri Giuliano Santucci, Research scientist (Institute of Cognitive Sciences and Technologies (ISTC), Italian National Council of Reserach (CNR)), added on 08/2023.
+* Georg Martius, Professor (University of Tübingen), added on 08/2023.
+* Cedric Colas, Postdoc (MIT / Inria), added on 08/2023.
+* Justus Piater, Professor (Universität Innsbruck), added on 09/2023.
+* Frederick Xavier Richard, Master student (ISTC/AI2Llife), added on 09/2023.
+* Alejandro Romero, Postdoc (Universidade da Coruña), added on 09/2023.
+* Gaia Molinaro, PhD student (University of California, Berkeley), added on 09/2023.
+* Rubén Moreno Bote, Professor (Universitat Pompeu Fabra), added on 12/2023.
+* Jaedong Hwang, PhD student (MIT), added on 12/2023.
+* Guy Davidson, PhD student (New York University), added on 12/2023.
+* Dhawal Gupta, PhD student (University of Massachusetts, Amherst), added on 12/2023.
+* Junyi Chu, Postdoc (Harvard University), added on 12/2023.
+* Julian Togelius , Professor (New York University), added on 12/2023.
+* Eunice Yiu, PhD student (UC Berkeley), added on 12/2023.
+* Khanh Nguyen, Postdoc (University of California, Berkeley), added on 12/2023.
+* Aditya Mohan, PhD student (Leibniz University of Hannover), added on 12/2023.
+* Samantha Marie Waters Wood, Professor (Indiana University Bloomington ), added on 12/2023.
+* Jean-Baptiste Mouret, Research director (Inria), added on 01/2024.
+* Minoru Asada, Professor (International Professional University of Technology in Osaka,  and Symbiotic Intelligent System Research Center Open and Transdisciplinary Research Initiatives, Osaka University,), added on 01/2024.
+* Jun Tani, Professor (Okinawa Institute of Science and Technology), added on 01/2024.
+* Kathryn Kasmarik, Professor (University of New South Wales, Australia), added on 01/2024.
+* Hanne Say, Master student (Ozyegin University), added on 01/2024.
+* Sebastian Blaes, Postdoc (University of Tübingen / Max Planck Institute for Intelligent Systems), added on 01/2024.
+* Zohar Rimon, PhD student (technion Israel Institute of Technology), added on 01/2024.
+* Sergiu T. Popescu, Postdoc (Czech Technical University in Prague), added on 01/2024.
+* Michael Herrmann, Lecturer (University of Edinburgh, School of Informatics), added on 01/2024.
+* Matthias Rolf, Professor (Oxford Brookes University), added on 01/2024.
+* Roberta Raileanu, Research scientist (Meta), added on 01/2024.
+* Christian Guckelsberger, Professor (Aalto University, Helsinki, Finland), added on 01/2024.
+* Martha White, Professor (University of Alberta), added on 01/2024.
 
-To become an IMOL member, apply <a href="../participate">here</a>. To get your name removed from this list, send an email to <a href="mailto:contact@imol-community.org">here</a>.
 </div>
