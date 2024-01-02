@@ -80,9 +80,9 @@ def tsv_to_member_list(path_to_tsv_file, cutoff_date):
             assert False
         else:
             if isinstance(entry[middle_name], str):
-                format_str = f"{entry[first_name]} {entry[middle_name]} {entry[last_name]}, {entry[position]} ({entry[affiliation]}), added on {date}."
+                format_str = f"<b>{entry[first_name]} {entry[middle_name]} {entry[last_name]}</b>, {entry[position]} ({entry[affiliation]}), added on {date}."
             else:
-                format_str = f"{entry[first_name]} {entry[last_name]}, {entry[position]} ({entry[affiliation]}), added on {date}."
+                format_str = f"<b>{entry[first_name]} {entry[last_name]} </b>, {entry[position]} ({entry[affiliation]}), added on {date}."
 
         if entry[accept_reject] == accept:
             accept_reject_data.append(accept)
