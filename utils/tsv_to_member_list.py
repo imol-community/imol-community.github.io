@@ -116,7 +116,9 @@ def tsv_to_member_list(path_to_tsv_file, cutoff_date):
                 accept_reject_data.append(reject)
             else: raise ValueError
     assert len(accept_reject_data) == total
-    format_everything = '* ' + '\n* '.join(markdown_code)
+    format_everything = ""
+    for code in markdown_code:
+        format_everything += f'<li> {code} </li> \n'
     decisions = '\n'.join(accept_reject_data)
     instructions = ("Instructions:\n"
                     "Two things need to be done:\n\n"
