@@ -295,37 +295,65 @@ To become an IMOL member, apply <a href="../participate">here</a>. To get your n
 Here is the list of IMOL members:
 
 <ul>
-<li> <b>Richard Duro </b>, Professor (Universidade da Coruña), added on 08/2023. </li> 
-<li> <b>Georg Martius </b>, Professor (University of Tübingen), added on 08/2023. </li> 
-<li> <b>Vieri Giuliano Santucci </b>, Research scientist (Institute of Cognitive Sciences and Technologies (ISTC), Italian National Council of Reserach (CNR)), added on 08/2023. </li> 
-<li> <b>Cedric Colas </b>, Postdoc (MIT / Inria), added on 08/2023. </li>
-<li> <b>Justus Piater </b>, Professor (Universität Innsbruck), added on 09/2023. </li> 
+<li> <b>Richard Duro</b>, Professor (Universidade da Coruña), added on 08/2023. </li> 
+<li> <b>Georg Martius</b>, Professor (University of Tübingen), added on 08/2023. </li> 
+<li> <b>Vieri Giuliano Santucci</b>, Research scientist (Institute of Cognitive Sciences and Technologies (ISTC), Italian National Council of Reserach (CNR)), added on 08/2023. </li> 
+<li> <b>Cedric Colas</b>, Postdoc (MIT / Inria), added on 08/2023. </li>
+<li> <b>Justus Piater</b>, Professor (Universität Innsbruck), added on 09/2023. </li> 
 <li> <b>Frederick Xavier Richard</b>, Master student (ISTC/AI2Llife), added on 09/2023. </li> 
-<li> <b>Alejandro Romero </b>, Postdoc (Universidade da Coruña), added on 09/2023. </li> 
-<li> <b>Gaia Molinaro </b>, PhD student (University of California, Berkeley), added on 09/2023. </li>
-<li> <b>Rubén Moreno Bote </b>, Professor (Universitat Pompeu Fabra), added on 12/2023. </li> 
-<li> <b>Jaedong Hwang </b>, PhD student (MIT), added on 12/2023. </li> 
-<li> <b>Guy Davidson </b>, PhD student (New York University), added on 12/2023. </li> 
-<li> <b>Dhawal Gupta </b>, PhD student (University of Massachusetts, Amherst), added on 12/2023. </li> 
-<li> <b>Junyi Chu </b>, Postdoc (Harvard University), added on 12/2023. </li> 
-<li> <b>Julian Togelius  </b>, Professor (New York University), added on 12/2023. </li> 
-<li> <b>Eunice Yiu </b>, PhD student (UC Berkeley), added on 12/2023. </li> 
-<li> <b>Khanh Nguyen </b>, Postdoc (University of California, Berkeley), added on 12/2023. </li> 
-<li> <b>Aditya Mohan </b>, PhD student (Leibniz University of Hannover), added on 12/2023. </li> 
+<li> <b>Alejandro Romero</b>, Postdoc (Universidade da Coruña), added on 09/2023. </li> 
+<li> <b>Gaia Molinaro</b>, PhD student (University of California, Berkeley), added on 09/2023. </li>
+<li> <b>Rubén Moreno Bote</b>, Professor (Universitat Pompeu Fabra), added on 12/2023. </li> 
+<li> <b>Jaedong Hwang</b>, PhD student (MIT), added on 12/2023. </li> 
+<li> <b>Guy Davidson</b>, PhD student (New York University), added on 12/2023. </li> 
+<li> <b>Dhawal Gupta</b>, PhD student (University of Massachusetts, Amherst), added on 12/2023. </li> 
+<li> <b>Junyi Chu</b>, Postdoc (Harvard University), added on 12/2023. </li> 
+<li> <b>Julian Togelius</b>, Professor (New York University), added on 12/2023. </li> 
+<li> <b>Eunice Yiu</b>, PhD student (UC Berkeley), added on 12/2023. </li> 
+<li> <b>Khanh Nguyen</b>, Postdoc (University of California, Berkeley), added on 12/2023. </li> 
+<li> <b>Aditya Mohan</b>, PhD student (Leibniz University of Hannover), added on 12/2023. </li> 
 <li> <b>Samantha Marie Waters Wood</b>, Professor (Indiana University Bloomington ), added on 12/2023. </li> 
-<li> <b>Jean-Baptiste Mouret </b>, Research director (Inria), added on 01/2024. </li> 
-<li> <b>Minoru Asada </b>, Professor (International Professional University of Technology in Osaka,  and Symbiotic Intelligent System Research Center Open and Transdisciplinary Research Initiatives, Osaka University,), added on 01/2024. </li> 
-<li> <b>Jun Tani </b>, Professor (Okinawa Institute of Science and Technology), added on 01/2024. </li> 
-<li> <b>Kathryn Kasmarik </b>, Professor (University of New South Wales, Australia), added on 01/2024. </li> 
-<li> <b>Hanne Say </b>, Master student (Ozyegin University), added on 01/2024. </li> 
-<li> <b>Sebastian Blaes </b>, Postdoc (University of Tübingen / Max Planck Institute for Intelligent Systems), added on 01/2024. </li> 
-<li> <b>Zohar Rimon </b>, PhD student (technion Israel Institute of Technology), added on 01/2024. </li> 
+<li> <b>Jean-Baptiste Mouret</b>, Research director (Inria), added on 01/2024. </li> 
+<li> <b>Minoru Asada</b>, Professor (International Professional University of Technology in Osaka,  and Symbiotic Intelligent System Research Center Open and Transdisciplinary Research Initiatives, Osaka University,), added on 01/2024. </li> 
+<li> <b>Jun Tani</b>, Professor (Okinawa Institute of Science and Technology), added on 01/2024. </li> 
+<li> <b>Kathryn Kasmarik</b>, Professor (University of New South Wales, Australia), added on 01/2024. </li> 
+<li> <b>Hanne Say</b>, Master student (Ozyegin University), added on 01/2024. </li> 
+<li> <b>Sebastian Blaes</b>, Postdoc (University of Tübingen / Max Planck Institute for Intelligent Systems), added on 01/2024. </li> 
+<li> <b>Zohar Rimon</b>, PhD student (technion Israel Institute of Technology), added on 01/2024. </li> 
 <li> <b>Sergiu T. Popescu</b>, Postdoc (Czech Technical University in Prague), added on 01/2024. </li> 
-<li> <b>Michael Herrmann </b>, Lecturer (University of Edinburgh, School of Informatics), added on 01/2024. </li> 
-<li> <b>Matthias Rolf </b>, Professor (Oxford Brookes University), added on 01/2024. </li> 
-<li> <b>Roberta Raileanu </b>, Research scientist (Meta), added on 01/2024. </li> 
-<li> <b>Christian Guckelsberger </b>, Professor (Aalto University, Helsinki, Finland), added on 01/2024. </li> 
-<li> <b>Martha White </b>, Professor (University of Alberta), added on 01/2024. </li> 
-
+<li> <b>Michael Herrmann</b>, Lecturer (University of Edinburgh, School of Informatics), added on 01/2024. </li> 
+<li> <b>Matthias Rolf</b>, Professor (Oxford Brookes University), added on 01/2024. </li> 
+<li> <b>Roberta Raileanu</b>, Research scientist (Meta), added on 01/2024. </li> 
+<li> <b>Christian Guckelsberger</b>, Professor (Aalto University, Helsinki, Finland), added on 01/2024. </li> 
+<li> <b>Martha White</b>, Professor (University of Alberta), added on 01/2024. </li> 
+<li> <b>Jean-Baptiste Mouret</b>, Research director (Inria), added on 01/2024. </li> 
+<li> <b>Minoru Asada</b>, Professor (International Professional University of Technology in Osaka,  and Symbiotic Intelligent System Research Center Open and Transdisciplinary Research Initiatives, Osaka University,), added on 01/2024. </li> 
+<li> <b>Jun Tani</b>, Professor (Okinawa Institute of Science and Technology), added on 01/2024. </li> 
+<li> <b>Julian Togelius</b>, Professor (New York University), added on 01/2024. </li> 
+<li> <b>Kathryn Kasmarik</b>, Professor (University of New South Wales, Australia), added on 01/2024. </li> 
+<li> <b>Hanne Say</b>, Master student (Ozyegin University), added on 01/2024. </li> 
+<li> <b>Sebastian Blaes</b>, Postdoc (University of Tübingen / Max Planck Institute for Intelligent Systems), added on 01/2024. </li> 
+<li> <b>Zohar Rimon</b>, PhD student (technion Israel Institute of Technology), added on 01/2024. </li> 
+<li> <b>Richard J. Duro</b>, Professor (Universidade da Coruña, Spain), added on 01/2024. </li> 
+<li> <b>Sergiu T. Popescu</b>, Postdoc (Czech Technical University in Prague), added on 01/2024. </li> 
+<li> <b>Michael Herrmann</b>, Lecturer (University of Edinburgh, School of Informatics), added on 01/2024. </li> 
+<li> <b>Matthias Rolf</b>, Professor (Oxford Brookes University), added on 01/2024. </li> 
+<li> <b>Roberta Raileanu</b>, Research scientist (Meta), added on 01/2024. </li> 
+<li> <b>Christian Guckelsberger</b>, Professor (Aalto University, Helsinki, Finland), added on 01/2024. </li> 
+<li> <b>Martha White</b>, Professor (University of Alberta), added on 01/2024. </li> 
+<li> <b>Tadahiro Taniguchi</b>, Professor (Ritsumeikan University), added on 01/2024. </li> 
+<li> <b>Kenji Doya</b>, Professor (Okinawa Institute of Science and Technology Graduate University), added on 01/2024. </li> 
+<li> <b>Michael Spranger</b>, President (Sony AI), added on 01/2024. </li> 
+<li> <b>Christian Gumbsch</b>, PhD student (University of Tübingen, Max Planck Institute for Intelligent Systems, & TU Dresden), added on 01/2024. </li> 
+<li> <b>Mehdi Zadem</b>, PhD student (Ecole Polytechnique, ENSTA Paris), added on 01/2024. </li> 
+<li> <b>Angelo Oddi</b>, Research scientist (CNR - National Research Council of Italy ), added on 01/2024. </li> 
+<li> <b>Roderic Alan Grupen</b>, Professor (College of Information and Computer Sciences, University of Massachusetts), added on 01/2024. </li> 
+<li> <b>Céline Teulière</b>, Professor (Université Clermont Auvergne), added on 01/2024. </li> 
+<li> <b>Martin Butz</b>, Professor (University of Tübingen), added on 01/2024. </li> 
+<li> <b>Matej Hoffmann</b>, Professor (Czech Technical University in Prague), added on 01/2024. </li> 
+<li> <b>Antoine Cully</b>, Professor (Imperial College London), added on 01/2024. </li> 
+<li> <b>George Konidaris</b>, Professor (Brown), added on 01/2024. </li> 
+<li> <b>Sao Mai Nguyen</b>, Professor (Ensta, IP Paris), added on 01/2024. </li> 
+<li> <b>Martin Riedmiller</b>, Research director (Google DeepMind), added on 01/2024. </li> 
 </ul>
 </div>

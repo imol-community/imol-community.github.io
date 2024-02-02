@@ -1,7 +1,8 @@
 import pandas as pd
 
 path_to_tsv_file = '~/Downloads/tsv_file.tsv'
-cutoff_date = '02/01/2023'
+cutoff_date = '01/01/2024'  #day/month/year
+# last update on feb 2nd
 
 def tsv_to_member_list(path_to_tsv_file, cutoff_date):
     """
@@ -50,7 +51,7 @@ def tsv_to_member_list(path_to_tsv_file, cutoff_date):
             print("ERROR: the cutoff data as the wrong format, should be '%d/%m/%Y'")
             assert False
 
-        filtered_df = df[dates > cutoff_date]
+        filtered_df = df[dates >= cutoff_date]
     else:
         filtered_df = df
 
@@ -82,7 +83,7 @@ def tsv_to_member_list(path_to_tsv_file, cutoff_date):
             if isinstance(entry[middle_name], str):
                 format_str = f"<b>{entry[first_name]} {entry[middle_name]} {entry[last_name]}</b>, {entry[position]} ({entry[affiliation]}), added on {date}."
             else:
-                format_str = f"<b>{entry[first_name]} {entry[last_name]} </b>, {entry[position]} ({entry[affiliation]}), added on {date}."
+                format_str = f"<b>{entry[first_name]} {entry[last_name]}</b>, {entry[position]} ({entry[affiliation]}), added on {date}."
 
         if entry[accept_reject] == accept:
             accept_reject_data.append(accept)
