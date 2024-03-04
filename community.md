@@ -299,6 +299,7 @@ Here is the list of IMOL members:
 <li> <b>Georg Martius</b>, Professor (University of Tübingen), added on 08/2023. </li> 
 <li> <b>Vieri Giuliano Santucci</b>, Research scientist (Institute of Cognitive Sciences and Technologies (ISTC), Italian National Council of Reserach (CNR)), added on 08/2023. </li> 
 <li> <b>Cedric Colas</b>, Postdoc (MIT / Inria), added on 08/2023. </li>
+<li> <b>Jochen Triesch</b>, Professor (Frankfurt Institute for Advanced Studies), added on 08/2023. </li>
 <li> <b>Justus Piater</b>, Professor (Universität Innsbruck), added on 09/2023. </li> 
 <li> <b>Frederick Xavier Richard</b>, Master student (ISTC/AI2Llife), added on 09/2023. </li> 
 <li> <b>Alejandro Romero</b>, Postdoc (Universidade da Coruña), added on 09/2023. </li> 
