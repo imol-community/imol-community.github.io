@@ -356,5 +356,7 @@ Here is the list of IMOL members:
 <li> <b>George Konidaris</b>, Professor (Brown), added on 01/2024. </li> 
 <li> <b>Sao Mai Nguyen</b>, Professor (Ensta, IP Paris), added on 01/2024. </li> 
 <li> <b>Martin Riedmiller</b>, Research director (Google DeepMind), added on 01/2024. </li> 
+<li> <b>Pierre-Yves Oudeyer</b>, Research director (Inria), added on 03/2024. </li> 
+<li> <b>Aly Lidayan</b>, PhD student (UC Berkeley), added on 03/2024. </li> 
 </ul>
 </div>
