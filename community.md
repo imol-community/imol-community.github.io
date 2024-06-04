@@ -327,21 +327,6 @@ Here is the list of IMOL members:
 <li> <b>Roberta Raileanu</b>, Research scientist (Meta), added on 01/2024. </li> 
 <li> <b>Christian Guckelsberger</b>, Professor (Aalto University, Helsinki, Finland), added on 01/2024. </li> 
 <li> <b>Martha White</b>, Professor (University of Alberta), added on 01/2024. </li> 
-<li> <b>Jean-Baptiste Mouret</b>, Research director (Inria), added on 01/2024. </li> 
-<li> <b>Minoru Asada</b>, Professor (International Professional University of Technology in Osaka,  and Symbiotic Intelligent System Research Center Open and Transdisciplinary Research Initiatives, Osaka University,), added on 01/2024. </li> 
-<li> <b>Jun Tani</b>, Professor (Okinawa Institute of Science and Technology), added on 01/2024. </li> 
-<li> <b>Julian Togelius</b>, Professor (New York University), added on 01/2024. </li> 
-<li> <b>Kathryn Kasmarik</b>, Professor (University of New South Wales, Australia), added on 01/2024. </li> 
-<li> <b>Hanne Say</b>, Master student (Ozyegin University), added on 01/2024. </li> 
-<li> <b>Sebastian Blaes</b>, Postdoc (University of Tübingen / Max Planck Institute for Intelligent Systems), added on 01/2024. </li> 
-<li> <b>Zohar Rimon</b>, PhD student (technion Israel Institute of Technology), added on 01/2024. </li> 
-<li> <b>Richard J. Duro</b>, Professor (Universidade da Coruña, Spain), added on 01/2024. </li> 
-<li> <b>Sergiu T. Popescu</b>, Postdoc (Czech Technical University in Prague), added on 01/2024. </li> 
-<li> <b>Michael Herrmann</b>, Lecturer (University of Edinburgh, School of Informatics), added on 01/2024. </li> 
-<li> <b>Matthias Rolf</b>, Professor (Oxford Brookes University), added on 01/2024. </li> 
-<li> <b>Roberta Raileanu</b>, Research scientist (Meta), added on 01/2024. </li> 
-<li> <b>Christian Guckelsberger</b>, Professor (Aalto University, Helsinki, Finland), added on 01/2024. </li> 
-<li> <b>Martha White</b>, Professor (University of Alberta), added on 01/2024. </li> 
 <li> <b>Tadahiro Taniguchi</b>, Professor (Ritsumeikan University), added on 01/2024. </li> 
 <li> <b>Kenji Doya</b>, Professor (Okinawa Institute of Science and Technology Graduate University), added on 01/2024. </li> 
 <li> <b>Michael Spranger</b>, President (Sony AI), added on 01/2024. </li> 
