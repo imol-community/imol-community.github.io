@@ -351,4 +351,6 @@ Here is the list of IMOL members:
 <li> <b>Wei Chen </b>, Postdoc (Westlake University), added on 07/2024. </li> 
 <li> <b>Xia Xu </b>, PhD student (Frankfurt Institute for Advanced Studies), added on 07/2024. </li> 
 </ul>
+
+</div>
 </div>
