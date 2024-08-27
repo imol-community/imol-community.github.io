@@ -343,5 +343,12 @@ Here is the list of IMOL members:
 <li> <b>Martin Riedmiller</b>, Research director (Google DeepMind), added on 01/2024. </li> 
 <li> <b>Pierre-Yves Oudeyer</b>, Research director (Inria), added on 03/2024. </li> 
 <li> <b>Aly Lidayan</b>, PhD student (UC Berkeley), added on 03/2024. </li> 
+<li> <b>Ted Fujimoto </b>, Research scientist (Pacific Northwest National Laboratory), added on 04/2024. </li> 
+<li> <b>Lorenzo Jamone </b>, Professor (Queen Mary University of London), added on 05/2024. </li> 
+<li> <b>Nicola Catenacci Volpi </b>, Research scientist (University of Hertfordshire), added on 06/2024. </li> 
+<li> <b>Junfeng Tang </b>, PhD student (Westlake University), added on 06/2024. </li> 
+<li> <b>Luying Feng </b>, Research assistant(Westlake University), added on 06/2024. </li> 
+<li> <b>Wei Chen </b>, Postdoc (Westlake University), added on 07/2024. </li> 
+<li> <b>Xia Xu </b>, PhD student (Frankfurt Institute for Advanced Studies), added on 07/2024. </li> 
 </ul>
 </div>
