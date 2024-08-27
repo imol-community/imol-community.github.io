@@ -41,5 +41,5 @@ subtitle: Past activities of the IMOL community
 <br>Organisers: Vieri Giuliano Santucci, Gianluca Baldassarre, Andrew Barto, Pierre-Yves Oudeyer
 </p>
 
-
+</div>
 
