@@ -7,7 +7,7 @@ title: Welcome to the IMOL Community
 
 <div class='description' style='font-size: 14pt; margin-top: 25pt'>
 
-<b>Join us at the IMOL Workshop at NeurIPS 2024 in Vancouver! More info <a href="https://imol-workshop.github.io/">here</a></b>.
+<b>Join us at the IMOL Workshop at NeurIPS 2024 in Vancouver! Submission deadline Sept 11. More info <a href="https://imol-workshop.github.io/">here</a></b>.
 </div>
 
 <h3 style='margin-bottom: 20pt;'>Intrinsically Motivated Open-Ended Learning</h3>
