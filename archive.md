@@ -10,6 +10,13 @@ subtitle: Past activities of the IMOL community
 <br>
 <div class='description' style='font-size: 14pt;'>
 
+<p><b>IMOL@NeurIPS workshop 2023</b></p>
+<p>Location: New Orleans, USA
+<br>Dates: 14th of December 2023
+<br>Organisers: Cédric Colas, Laetitia Teodorescu, Cansu Sancaktar, Nadia Ady, Junyi Chu
+</p>
+
+
 <p><b>Conference IMOL 2023</b></p>
 <p>Location: Paris, France
 <br>Dates: 13th-15th of September 2023
@@ -34,5 +41,5 @@ subtitle: Past activities of the IMOL community
 <br>Organisers: Vieri Giuliano Santucci, Gianluca Baldassarre, Andrew Barto, Pierre-Yves Oudeyer
 </p>
 
-
+</div>
 

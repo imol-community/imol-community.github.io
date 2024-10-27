@@ -5,6 +5,11 @@ title: Welcome to the IMOL Community
 
  <img src="/assets/img/imol2022.jpg" alt="Group picture of IMOL 2022 in Tubingen">
 
+<div class='description' style='font-size: 14pt; margin-top: 25pt'>
+
+<b>Join us at the IMOL Workshop at NeurIPS 2024 in Vancouver! Submission deadline Sept 11. More info <a href="https://imol-workshop.github.io/">here</a></b>.
+</div>
+
 <h3 style='margin-bottom: 20pt;'>Intrinsically Motivated Open-Ended Learning</h3>
 
 <div class='description' style='font-size: 14pt;'>
@@ -17,6 +22,12 @@ This website is the major connecting portal for the IMOL community. It promotes 
 enterprise towards more autonomous and versatile artificial agents.
 </div>
 
+
+
+<h3 style='margin-bottom: 20pt;'>Upcoming Worskhop</h3>
+
+<div class='description' style='font-size: 14pt;'>
+An IMOL Workshop will take place at the NeurIPS conference in Vancouver on Dec 15th 2024. Learn more <a href="https://imol-workshop.github.io/">here</a>. </div>
 
 
 
