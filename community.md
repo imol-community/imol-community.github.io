@@ -116,11 +116,9 @@ Cédric Colas is a postdoctoral researcher in the Computational Cognitive Scienc
   </div>
   <div class="col-9">
     <h4> <a href="https://researchprofiles.herts.ac.uk/en/persons/daniel-polani" target="_blank">  Daniel Polani </a></h4>
-    <p class='speaker-affiliation'> Professor
-</p>
- <p class='speaker-affiliation'> Adaptive Systems Research Group, Centre of Artificial Intelligence (CAIRNS), Robotics and Neural Systems, University of Hertfordshire, Hatfield, UK
-
-</p>
+    <p class='speaker-affiliation'> Professor</p>
+    <p class='speaker-affiliation'> Adaptive Systems Research Group, Centre of Artificial Intelligence (CAIRNS), Robotics and Neural Systems, University of Hertfordshire, Hatfield, UK
+    </p>
 <button type="button" class="collapsible">Bio</button>
 		<div class="content">
 	      <p style='margin-top: 5pt;font-size: 11pt;'>	
@@ -129,10 +127,9 @@ Research Group at the School of Physics, engineering and Computer Science at the
 
 <br>His research interests include principles of cognition, intelligence and robotics from first, especially information-theoretic, principles. Ramifications of this research 
 range from practical applications to more fundamental questions, such as the role of embodiment, intrinsic motivations and taskless utilities, to questions from cognitive science, psychology, social science, and biology.
-	</p>
-		</div>
-  </div>
-
+	</p> 
+        </div>
+</div>
 </div>
 
 
