@@ -10,6 +10,13 @@ subtitle: Past activities of the IMOL community
 <br>
 <div class='description' style='font-size: 14pt;'>
 
+<p><b>IMOL@NeurIPS workshop 2024</b></p>
+<p>Location: Vancouver, Canada
+<br>Dates: 15th of December 2024
+<br>Organisers: Cédric Colas, Laetitia Teodorescu, Cansu Sancaktar, Nadia Ady, Junyi Chu, Guy Davidson, Gaia Molinaro
+</p>
+
+
 <p><b>IMOL@NeurIPS workshop 2023</b></p>
 <p>Location: New Orleans, USA
 <br>Dates: 14th of December 2023
