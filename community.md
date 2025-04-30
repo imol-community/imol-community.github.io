@@ -349,5 +349,8 @@ Here is the list of IMOL members:
 <li> <b>Xia Xu</b>, PhD student (Frankfurt Institute for Advanced Studies), added on 07/2024. </li> 
 <li> <b>Aslan Satary Dizaji</b>, PhD student (AutocurriculaLab & NeuroAILab & LangTechAI), added on 10/2024. </li> 
 <li> <b>Jorge Ramírez-Ruiz</b>, Postdoc (Université de Montréal), added on 10/2024. </li> 
+<li> <b>Erik Matias Lintunen</b>, PhD student (Department of Computer Science, Aalto University, Finland), added on 11/2024. </li> 
+<li> <b>Pavan Kalyan Tankala</b>, Research Fellow (Microsoft Research, India), added on 11/2024. </li> 
+<li> <b>Grace Roessling</b>, PhD student (Rensselaer Polytechnic Institute), added on 01/2025. </li> 
 </ul>
 </div>
