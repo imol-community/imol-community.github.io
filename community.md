@@ -352,5 +352,6 @@ Here is the list of IMOL members:
 <li> <b>Erik Matias Lintunen</b>, PhD student (Department of Computer Science, Aalto University, Finland), added on 11/2024. </li> 
 <li> <b>Pavan Kalyan Tankala</b>, Research Fellow (Microsoft Research, India), added on 11/2024. </li> 
 <li> <b>Grace Roessling</b>, PhD student (Rensselaer Polytechnic Institute), added on 01/2025. </li> 
+<li> <b>Ursula Addison</b>, Research scientist (CUNY Graduate Center), added on 03/2025.</li>
 </ul>
 </div>
