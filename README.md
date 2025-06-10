@@ -12,8 +12,9 @@ To add a job opening, please add a pull request and change the file ./jobs.md by
         <b>Duration: </b> [duration of the contract] <br>
         <b>Start date: </b> [add info about starting date] <br>
         <b>Salary: </b> [add salary here or salary range] <br>
+        <b>More info: <a href="https://www.your_website.com">here</a></b>
     </p>
-    <!-- Please give an expiration date here for this position: [expiration date]} -->
+    <!-- Please give an expiration date for this position in this comment: [expiration date]} -->
     <button type="button" class="collapsible" style="font-size: 13pt">Job description</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>	
