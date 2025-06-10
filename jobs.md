@@ -18,13 +18,13 @@ To suggest a new job position, please look at the instruction in our <a href="ht
         <b>Duration: </b> 4 years (2+2) <br>
         <b>Start date: </b> Autumn / Winter 2025 <br>
         <b>Salary: </b> 2747–3424 Euro / month (increased over course of studies) <br>
-        <b>More info: <a href="https://www.aalto.fi/en/open-positions/doctoral-researcher-and-postdoc-positions-to-work-on-computational-social-intrinsic-motivation-sim">here</a></b>
+        <b>More info: <a href="https://www.aalto.fi/en/open-positions/doctoral-researcher-and-postdoc-positions-to-work-on-computational-social-intrinsic-motivation-sim" target="_blank">here</a></b>
     </p>
     <!-- Please give an expiration date here for this position: 30.9.2025} -->
     <button type="button" class="collapsible" style="font-size: 13pt">Job description</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>   
-        The Autotelic Interaction Research (AIR) group at the Dept. of Computer Science, Aalto University, Finland is looking for a PhD researcher (2+2 years) to work on Computational Social Intrinsic Motivation (SIM), an exciting research area seeking to harness to power of computational intrinsic motivation in the interaction of multiple agents. In close collaboration with the AIR group, world-leading international collaborators, and a postdoc on the same project, you’ll be implementing new, scalable SIM models, design large-scale simulation / user studies and turn these models into groundbreaking videogame AI applications. Full project description & application instructions: <a href="https://www.aalto.fi/en/open-positions/doctoral-researcher-and-postdoc-positions-to-work-on-computational-social-intrinsic-motivation-sim">here</a>
+        The Autotelic Interaction Research (AIR) group at the Dept. of Computer Science, Aalto University, Finland is looking for a PhD researcher (2+2 years) to work on Computational Social Intrinsic Motivation (SIM), an exciting research area seeking to harness to power of computational intrinsic motivation in the interaction of multiple agents. In close collaboration with the AIR group, world-leading international collaborators, and a postdoc on the same project, you’ll be implementing new, scalable SIM models, design large-scale simulation / user studies and turn these models into groundbreaking videogame AI applications. Full project description & application instructions: <a href="https://www.aalto.fi/en/open-positions/doctoral-researcher-and-postdoc-positions-to-work-on-computational-social-intrinsic-motivation-sim" target="_blank">here</a>
 
         </p>
     </div>
@@ -42,13 +42,13 @@ To suggest a new job position, please look at the instruction in our <a href="ht
         <b>Duration: </b> 2 years <br>
         <b>Start date: </b> Autumn / Winter 2025 <br>
         <b>Salary: </b> 4037–4218 Euro / month (depending on experience) <br>
-        <b>More info: <a href="https://www.aalto.fi/en/open-positions/doctoral-researcher-and-postdoc-positions-to-work-on-computational-social-intrinsic-motivation-sim">here</a></b>
+        <b>More info: <a href="https://www.aalto.fi/en/open-positions/doctoral-researcher-and-postdoc-positions-to-work-on-computational-social-intrinsic-motivation-sim" target="_blank">here</a></b>
     </p>
     <!-- Please give an expiration date here for this position: 30.9.2025} -->
     <button type="button" class="collapsible" style="font-size: 13pt">Job description</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>   
-        The Autotelic Interaction Research (AIR) group at the Dept. of Computer Science, Aalto University, Finland is looking for a Postdoc (2 years) to work on Computational Social Intrinsic Motivation (SIM), an exciting research area seeking to harness to power of computational intrinsic motivation in the interaction of multiple agents. In close collaboration with the AIR group, world-leading international collaborators, and a PhD researcher on the same project, you’ll be implementing new, scalable SIM models, design large-scale simulation / user studies and turn these models into groundbreaking videogame AI applications. Full project description & application instructions:  <a href="https://www.aalto.fi/en/open-positions/doctoral-researcher-and-postdoc-positions-to-work-on-computational-social-intrinsic-motivation-sim">here</a>
+        The Autotelic Interaction Research (AIR) group at the Dept. of Computer Science, Aalto University, Finland is looking for a Postdoc (2 years) to work on Computational Social Intrinsic Motivation (SIM), an exciting research area seeking to harness to power of computational intrinsic motivation in the interaction of multiple agents. In close collaboration with the AIR group, world-leading international collaborators, and a PhD researcher on the same project, you’ll be implementing new, scalable SIM models, design large-scale simulation / user studies and turn these models into groundbreaking videogame AI applications. Full project description & application instructions:  <a href="https://www.aalto.fi/en/open-positions/doctoral-researcher-and-postdoc-positions-to-work-on-computational-social-intrinsic-motivation-sim" target="_blank">here</a>
         </p>
     </div>
 </div>

@@ -6,8 +6,7 @@ title: Welcome to the IMOL Community
  <img src="/assets/img/imol2022.jpg" alt="Group picture of IMOL 2022 in Tubingen">
 
 <div class='description' style='font-size: 14pt; margin-top: 25pt'>
-
-<b>Join us at the IMOL Conference 2025 in Hertfordshire! Dates: 8-10 September. More info TBD.</b>
+    <b>Join us at the IMOL Conference 2025 in Hertfordshire! Dates: 8-10 September. More info on the <a href="https://imol2025.github.io/" target="_blank">conference's website</a>. See the <a href="https://imol2025.github.io/pages/call/" target="_blank">call for paper</a>.</b>
 </div>
 
 <h3 style='margin-bottom: 20pt;'>Intrinsically Motivated Open-Ended Learning</h3>
@@ -27,7 +26,7 @@ enterprise towards more autonomous and versatile artificial agents.
 <h3 style='margin-bottom: 20pt;'>Upcoming Conference</h3>
 
 <div class='description' style='font-size: 14pt;'>
-The next IMOL conference will take place in Hertfordshire on September 8 to 10, 2025. More info TBD. 
+The next IMOL conference will take place in Hertfordshire on September 8 to 10, 2025. More info on the <a href="https://imol2025.github.io/" target="_blank">conference's website</a>.
 </div>
 
 
@@ -36,20 +35,8 @@ The next IMOL conference will take place in Hertfordshire on September 8 to 10, 
 <div class='description' style='font-size: 14pt;'>
 Does your research intersect with the interests of IMOL? You can join the <a href="/community">IMOL community</a> and become a member by applying <a 
 href="/participate">here</a>. Members actively participate in keeping the community alive and flourishing via the organization of a diversity of events and discussions.
-You can join the google group <a href="https://groups.google.com/g/imol-community">here</a>: connect with a google account and ask to join!
+You can join the google group <a href="https://groups.google.com/g/imol-community" target="_blank">here</a>: connect with a google account and ask to join!
 </div>
 
 
 
-<!--
-<h3 style='margin-bottom: 20pt;'>News</h3>
-
-<div class='description' style='font-size: 14pt;margin-bottom: 10pt'>
-Here are the latest news of the IMOL community:
-</div>
-<div class='description' style='font-size: 14pt;'>
-<ul>
-<li> The IMOL 2023 Conference will take place in Paris on September 13-15. Learn more <a href="https://imolconf2023.github.io/">here</a>.</li>
-</ul>
-</div>
--->
