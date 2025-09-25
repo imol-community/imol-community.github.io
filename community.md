@@ -116,9 +116,11 @@ Cédric Colas is a postdoctoral researcher in the Computational Cognitive Scienc
   </div>
   <div class="col-9">
     <h4> <a href="https://researchprofiles.herts.ac.uk/en/persons/daniel-polani" target="_blank">  Daniel Polani </a></h4>
-    <p class='speaker-affiliation'> Professor</p>
-    <p class='speaker-affiliation'> Adaptive Systems Research Group, Centre of Artificial Intelligence (CAIRNS), Robotics and Neural Systems, University of Hertfordshire, Hatfield, UK
-    </p>
+    <p class='speaker-affiliation'> Professor
+</p>
+ <p class='speaker-affiliation'> Adaptive Systems Research Group, Centre of Artificial Intelligence (CAIRNS), Robotics and Neural Systems, University of Hertfordshire, Hatfield, UK
+
+</p>
 <button type="button" class="collapsible">Bio</button>
 		<div class="content">
 	      <p style='margin-top: 5pt;font-size: 11pt;'>	
@@ -127,9 +129,10 @@ Research Group at the School of Physics, engineering and Computer Science at the
 
 <br>His research interests include principles of cognition, intelligence and robotics from first, especially information-theoretic, principles. Ramifications of this research 
 range from practical applications to more fundamental questions, such as the role of embodiment, intrinsic motivations and taskless utilities, to questions from cognitive science, psychology, social science, and biology.
-	</p> 
-        </div>
-</div>
+	</p>
+		</div>
+  </div>
+
 </div>
 
 
@@ -287,7 +290,7 @@ Stephane Doncieux received a PhD from Université Pierre and Marie Curie in 2003
 }
 </style>
 
-To become an IMOL member, apply <a href="../participate">here</a>. To get your name removed from this list, send an email to <a href="mailto:contact@imol-community.org">here</a>.
+To become an IMOL member, apply <a href="../participate">here</a>. To get your name removed from this list, send an email <a href="mailto:contact@imol-community.org">here</a>.
 
 Here is the list of IMOL members:
 
@@ -340,18 +343,27 @@ Here is the list of IMOL members:
 <li> <b>Martin Riedmiller</b>, Research director (Google DeepMind), added on 01/2024. </li> 
 <li> <b>Pierre-Yves Oudeyer</b>, Research director (Inria), added on 03/2024. </li> 
 <li> <b>Aly Lidayan</b>, PhD student (UC Berkeley), added on 03/2024. </li> 
-<li> <b>Ted Fujimoto</b>, Research scientist (Pacific Northwest National Laboratory), added on 04/2024. </li> 
-<li> <b>Lorenzo Jamone</b>, Professor (Queen Mary University of London), added on 05/2024. </li> 
-<li> <b>Nicola Catenacci Volpi</b>, Research scientist (University of Hertfordshire (UK)), added on 06/2024. </li> 
-<li> <b>Junfeng Tang</b>, PhD student (Westlake University), added on 06/2024. </li> 
-<li> <b>Luying Feng</b>, Research assistance, just got my master's degree at Zhejiang University and I am going to apply PhD in computer science. (Yaochu Jin's Lab, Westlake University,  Hangzhou, China), added on 06/2024. </li> 
-<li> <b>Wei Chen</b>, Postdoc (Westlake University), added on 07/2024. </li> 
-<li> <b>Xia Xu</b>, PhD student (Frankfurt Institute for Advanced Studies), added on 07/2024. </li> 
+<li> <b>Ted Fujimoto </b>, Research scientist (Pacific Northwest National Laboratory), added on 04/2024. </li> 
+<li> <b>Lorenzo Jamone </b>, Professor (Queen Mary University of London), added on 05/2024. </li> 
+<li> <b>Nicola Catenacci Volpi </b>, Research scientist (University of Hertfordshire), added on 06/2024. </li> 
+<li> <b>Junfeng Tang </b>, PhD student (Westlake University), added on 06/2024. </li> 
+<li> <b>Luying Feng </b>, Research assistant(Westlake University), added on 06/2024. </li> 
+<li> <b>Wei Chen </b>, Postdoc (Westlake University), added on 07/2024. </li> 
+<li> <b>Xia Xu </b>, PhD student (Frankfurt Institute for Advanced Studies), added on 07/2024. </li> 
 <li> <b>Aslan Satary Dizaji</b>, PhD student (AutocurriculaLab & NeuroAILab & LangTechAI), added on 10/2024. </li> 
 <li> <b>Jorge Ramírez-Ruiz</b>, Postdoc (Université de Montréal), added on 10/2024. </li> 
 <li> <b>Erik Matias Lintunen</b>, PhD student (Department of Computer Science, Aalto University, Finland), added on 11/2024. </li> 
 <li> <b>Pavan Kalyan Tankala</b>, Research Fellow (Microsoft Research, India), added on 11/2024. </li> 
 <li> <b>Grace Roessling</b>, PhD student (Rensselaer Polytechnic Institute), added on 01/2025. </li> 
-<li> <b>Ursula Addison</b>, Research scientist (CUNY Graduate Center), added on 03/2025.</li>
+<li> <b>Michal Vavrecka</b>, Research scientist (CIIRC CTU), added on 05/2025. </li> 
+<li> <b>Letícia Mara Berto</b>, Postdoc (University of Manchester), added on 06/2025. </li> 
+<li> <b>Sebastian Deterding</b>, Professor (Imperial College London), added on 06/2025. </li> 
+<li> <b>Anton Orell Wiehe</b>, PhD student ( Independent researcher (planning PhD); Founder at Pharos Labs, Hamburg), added on 07/2025. </li> 
+<li> <b>Hampus Claës Johan Åström</b>, PhD student (Computer Science, Lund University, Lund), added on 08/2025. </li> 
+<li> <b>rachel  swanson</b>, Research scientist (University College London), added on 08/2025. </li> 
+<li> <b>Akhi Mocherla</b>, Research Intern (INRIA), added on 09/2025. </li> 
+<li> <b>Clément Romac</b>, PhD student (Inria / Hugging Face), added on 09/2025. </li> 
 </ul>
+
+</div>
 </div>
