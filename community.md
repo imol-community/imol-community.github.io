@@ -360,10 +360,9 @@ Here is the list of IMOL members:
 <li> <b>Sebastian Deterding</b>, Professor (Imperial College London), added on 06/2025. </li> 
 <li> <b>Anton Orell Wiehe</b>, PhD student ( Independent researcher (planning PhD); Founder at Pharos Labs, Hamburg), added on 07/2025. </li> 
 <li> <b>Hampus Claës Johan Åström</b>, PhD student (Computer Science, Lund University, Lund), added on 08/2025. </li> 
-<li> <b>rachel  swanson</b>, Research scientist (University College London), added on 08/2025. </li> 
+<li> <b>Rachel Swanson</b>, Research scientist (University College London), added on 08/2025. </li> 
 <li> <b>Akhi Mocherla</b>, Research Intern (INRIA), added on 09/2025. </li> 
 <li> <b>Clément Romac</b>, PhD student (Inria / Hugging Face), added on 09/2025. </li> 
 </ul>
 
-</div>
 </div>
