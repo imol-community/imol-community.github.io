@@ -10,10 +10,19 @@ subtitle: Past activities of the IMOL community
 <br>
 <div class='description' style='font-size: 14pt;'>
 
+<p><b>Conference IMOL 2025</b></p>
+<p>Location: Hertfordshire, France
+<br>Dates: 8th-10th of September 2025
+<br>Organisers: Nicola Catenacci Volpi, Christoph Salge, Daniel Polani, Gianluca Baldassarre, Vieri Giuliano Santucci
+<br>Website: <a href='https://imol2025.github.io/'>https://imol2025.github.io/</a>
+</p>
+
+
 <p><b>IMOL@NeurIPS workshop 2024</b></p>
 <p>Location: Vancouver, Canada
 <br>Dates: 15th of December 2024
 <br>Organisers: Cédric Colas, Laetitia Teodorescu, Cansu Sancaktar, Nadia Ady, Junyi Chu, Guy Davidson, Gaia Molinaro
+<br>Website: <a href='https://imol-workshop.github.io/'>https://imol-workshop.github.io/</a>
 </p>
 
 
@@ -21,6 +30,7 @@ subtitle: Past activities of the IMOL community
 <p>Location: New Orleans, USA
 <br>Dates: 14th of December 2023
 <br>Organisers: Cédric Colas, Laetitia Teodorescu, Cansu Sancaktar, Nadia Ady, Junyi Chu
+<br>Website: <a href='https://imol-workshop.github.io/site_2023'>https://imol-workshop.github.io/site_2023</a>
 </p>
 
 
@@ -28,6 +38,7 @@ subtitle: Past activities of the IMOL community
 <p>Location: Paris, France
 <br>Dates: 13th-15th of September 2023
 <br>Organisers: Stéphane Doncieux, Georg Martius, Rania Rayyes, Vieri Giuliano Santucci, Gianluca Baldassarre
+<br>Website: <a href='https://imolconf2023.github.io/'>https://imolconf2023.github.io/</a>
 </p>
 
 <p><b>Conference IMOL 2022</b></p>

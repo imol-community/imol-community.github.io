@@ -363,6 +363,8 @@ Here is the list of IMOL members:
 <li> <b>Rachel Swanson</b>, Research scientist (University College London), added on 08/2025. </li> 
 <li> <b>Akhi Mocherla</b>, Research Intern (INRIA), added on 09/2025. </li> 
 <li> <b>Clément Romac</b>, PhD student (Inria / Hugging Face), added on 09/2025. </li> 
+<li> <b>Thomas Carta</b>, Research scientist (SakanaAI), added on 02/2026. </li> 
+<li> <b>Oliver Obst</b>, Assoc Prof (UNSW Sydney), added on 02/2026. </li> 
 </ul>
 
 </div>

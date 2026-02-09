@@ -5,9 +5,11 @@ title: Welcome to the IMOL Community
 
  <img src="/assets/img/imol2022.jpg" alt="Group picture of IMOL 2022 in Tubingen">
 
-<div class='description' style='font-size: 14pt; margin-top: 25pt'>
-    <b>Join us at the IMOL Conference 2025 in Hertfordshire! Dates: 8-10 September. More info on the <a href="https://imol2025.github.io/" target="_blank">conference's website</a>. See the <a href="https://imol2025.github.io/pages/call/" target="_blank">call for paper</a>.</b>
-</div>
+[//]: # (<div class='description' style='font-size: 14pt; margin-top: 25pt'>)
+
+[//]: # (    <b>Join us at the IMOL Conference 2025 in Hertfordshire! Dates: 8-10 September. More info on the <a href="https://imol2025.github.io/" target="_blank">conference's website</a>. See the <a href="https://imol2025.github.io/pages/call/" target="_blank">call for paper</a>.</b>)
+
+[//]: # (</div>)
 
 <h3 style='margin-bottom: 20pt;'>Intrinsically Motivated Open-Ended Learning</h3>
 
@@ -23,11 +25,13 @@ enterprise towards more autonomous and versatile artificial agents.
 
 
 
-<h3 style='margin-bottom: 20pt;'>Upcoming Conference</h3>
+[//]: # (<h3 style='margin-bottom: 20pt;'>Upcoming Conference</h3>)
 
-<div class='description' style='font-size: 14pt;'>
-The next IMOL conference will take place in Hertfordshire on September 8 to 10, 2025. More info on the <a href="https://imol2025.github.io/" target="_blank">conference's website</a>.
-</div>
+[//]: # (<div class='description' style='font-size: 14pt;'>)
+
+[//]: # (The next IMOL conference will take place in Hertfordshire on September 8 to 10, 2025. More info on the <a href="https://imol2025.github.io/" target="_blank">conference's website</a>.)
+
+[//]: # (</div>)
 
 
 <h3 style='margin-bottom: 20pt;'>Join Us!</h3>
