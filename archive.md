@@ -17,6 +17,7 @@ subtitle: Past activities of the IMOL community
 <br>Website: <a href='https://imol2025.github.io/'>https://imol2025.github.io/</a>
 </p>
 
+<br>
 
 <p><b>IMOL@NeurIPS workshop 2024</b></p>
 <p>Location: Vancouver, Canada
@@ -25,6 +26,7 @@ subtitle: Past activities of the IMOL community
 <br>Website: <a href='https://imol-workshop.github.io/'>https://imol-workshop.github.io/</a>
 </p>
 
+<br>
 
 <p><b>IMOL@NeurIPS workshop 2023</b></p>
 <p>Location: New Orleans, USA
@@ -33,6 +35,7 @@ subtitle: Past activities of the IMOL community
 <br>Website: <a href='https://imol-workshop.github.io/site_2023'>https://imol-workshop.github.io/site_2023</a>
 </p>
 
+<br>
 
 <p><b>Conference IMOL 2023</b></p>
 <p>Location: Paris, France
@@ -41,17 +44,24 @@ subtitle: Past activities of the IMOL community
 <br>Website: <a href='https://imolconf2023.github.io/'>https://imolconf2023.github.io/</a>
 </p>
 
+<br>
+
 <p><b>Conference IMOL 2022</b></p>
 <p>Location: Tübingen, Germany
 <br>Dates: 4th-6th of April 2022
 <br>Organisers: Georg Martius, Rania Rayyes, Vieri Giuliano Santucci, Gianluca Baldassarre, Christian Gumbsch
 </p>
 
+<br>
+
 <p><b>Conference IMOL 2019</b></p>
 <p>Location: Frankfurt, Germany
 <br>Dates: 1st-3rd of July 2019
 <br>Organisers: Kathryn kasmarick, Jochen Triesch, Vieri Giuliano Santucci, Gianluca Baldassarre
 </p>
+
+
+<br>
 
 <p><b>Conference IMOL 2017</b></p>
 <p>Location: Rome, Italy
