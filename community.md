@@ -364,7 +364,21 @@ Here is the list of IMOL members:
 <li> <b>Akhi Mocherla</b>, Research Intern (INRIA), added on 09/2025. </li> 
 <li> <b>Clément Romac</b>, PhD student (Inria / Hugging Face), added on 09/2025. </li> 
 <li> <b>Thomas Carta</b>, Research scientist (SakanaAI), added on 02/2026. </li> 
-<li> <b>Oliver Obst</b>, Assoc Prof (UNSW Sydney), added on 02/2026. </li> 
+<li> <b>Oliver Obst</b>, Assoc Prof (UNSW Sydney), added on 02/2026. </li>
+<li> <b>Benoît Girard</b>, Research director (CNRS, Sorbonne Université), added on 02/2026. </li> 
+<li> <b>Andrey Ustyuzhanin</b>, Professor (Constructor University; CERN; ), added on 02/2026. </li> 
+<li> <b>Nadav  Amir</b>, Postdoc (The Fields Institute/University of Ottawa), added on 05/2026. </li> 
+<li> <b>Lawrence Amsel</b>, Research scientist (Columbia University Department of Psychiatry ), added on 05/2026. </li> 
+<li> <b>Boirs Gutkin</b>, Research director (Group for Neural Theory, Laboratoire des Neurosciences Cognitives et Computationelles, DEC, Ecole Normale Superieure, Paris), added on 05/2026. </li> 
+<li> <b>Zhongtian Sun</b>, Professor (University of Kent), added on 05/2026. </li> 
+<li> <b>Christos Kalyvas</b>, Senior Lecturer (University of Hertfordshire, Department of Engineering), added on 05/2026. </li> 
+<li> <b>Jean-Baptiste Mouret</b>, Research director (Inria), added on 05/2026. </li> 
+<li> <b>Robin Chhabra </b>, Professor (Toronto Metropolitan University ), added on 05/2026. </li> 
+<li> <b>Dhananjay Bhaskar</b>, Professor (University of Wisconsin-Madison), added on 05/2026. </li> 
+<li> <b>Julien Rosenberger</b>, PhD student (Flowers AI & CogSci Lab, INRIA Bordeaux), added on 05/2026. </li> 
+<li> <b>Xiaoge Bao</b>, Postdoc (IDIBAPS), added on 05/2026. </li> 
+<li> <b>Hongyu Chang</b>, PhD student (Cornell University), added on 05/2026. </li> 
+<li> <b>Mario Martinez-Saito</b>, Postdoc (HSE University), added on 05/2026. </li> 
 </ul>
 
 </div>

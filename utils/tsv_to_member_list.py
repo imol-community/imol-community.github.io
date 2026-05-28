@@ -1,7 +1,7 @@
 import pandas as pd
 
 path_to_tsv_file = '~/Downloads/tsv_file.tsv'
-cutoff_date = '09/02/2025'  #day/month/year
+cutoff_date = '28/05/2026'  #day/month/year
 # last update on august 27 2024
 
 def tsv_to_member_list(path_to_tsv_file, cutoff_date):
