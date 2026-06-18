@@ -1,0 +1,86 @@
+---
+import Nav from "../components/Nav.astro";
+import Footer from "../components/Footer.astro";
+import "../styles/global.css";
+
+const { frontmatter } = Astro.props;
+const title = frontmatter.title ?? "Intrinsically Motivated Open-Ended Learning";
+const subtitle = frontmatter.subtitle;
+const isHome = Boolean(frontmatter.home);
+const showJoinCtas = title === "Participate";
+const pageTitle = `${title} | IMOL`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Intrinsically Motivated Open-Ended Learning research community."
+    />
+    <title>{pageTitle}</title>
+  </head>
+  <body class:list={[{ "home-page": isHome }]}>
+    <Nav />
+
+    <main>
+      <section class:list={["page-hero", { "home-hero": isHome }]}>
+        <div class="page-hero-inner">
+          <h1>{title}</h1>
+          {subtitle && <p class="subtitle">{subtitle}</p>}
+          {
+            showJoinCtas && (
+              <div class="hero-actions" aria-label="Community actions">
+                <a
+                  class="button primary"
+                  href="https://forms.gle/mfLnYzYPvzsBV1cb7"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Become a member
+                </a>
+                <a
+                  class="button secondary"
+                  href="https://groups.google.com/g/imol-community"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Join mailing list
+                </a>
+                <a
+                  class="button secondary"
+                  href="https://discord.gg/FEyZsfvmTf"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Join Discord
+                </a>
+              </div>
+            )
+          }
+        </div>
+      </section>
+
+      <article class:list={["content-shell", { "home-content": isHome }]}>
+        <slot />
+      </article>
+    </main>
+
+    <Footer />
+
+    <script>
+      for (const button of document.querySelectorAll(".collapsible")) {
+        button.addEventListener("click", () => {
+          button.classList.toggle("active");
+          const content = button.nextElementSibling;
+
+          if (content instanceof HTMLElement) {
+            content.style.display = content.style.display === "block" ? "none" : "block";
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

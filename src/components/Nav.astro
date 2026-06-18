@@ -1,0 +1,67 @@
+---
+const currentPath = Astro.url.pathname.replace(/\/$/, "") || "/";
+
+const links = [
+  { label: "Home", href: "/" },
+  { label: "Manifesto", href: "/manifesto/" },
+  { label: "Community", href: "/community/" },
+  { label: "Seminars", href: "https://imol-seminars.github.io/", external: true },
+  { label: "Participate", href: "/participate/" },
+  { label: "Resources", href: "/resources/" },
+  { label: "Past events", href: "/archive/" }
+];
+---
+
+<header class="site-header">
+  <a class="brand" href="/" aria-label="IMOL home">
+    <img src="/assets/img/imol_logo.png" alt="Intrinsically Motivated Open-Ended Learning logo" />
+  </a>
+
+  <nav class="site-nav" aria-label="Primary navigation">
+    {
+      links.map((link) => {
+        const normalized = link.external ? link.href : link.href.replace(/\/$/, "") || "/";
+        const active = !link.external && normalized === currentPath;
+
+        return (
+          <a
+            class:list={["nav-link", { active }]}
+            href={link.href}
+            target={link.external ? "_blank" : undefined}
+            rel={link.external ? "noreferrer" : undefined}
+          >
+            {link.label}
+          </a>
+        );
+      })
+    }
+  </nav>
+
+  <details class="mobile-menu">
+    <summary aria-label="Open navigation menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </summary>
+
+    <nav aria-label="Mobile navigation">
+      {
+        links.map((link) => {
+          const normalized = link.external ? link.href : link.href.replace(/\/$/, "") || "/";
+          const active = !link.external && normalized === currentPath;
+
+          return (
+            <a
+              class:list={["nav-link", { active }]}
+              href={link.href}
+              target={link.external ? "_blank" : undefined}
+              rel={link.external ? "noreferrer" : undefined}
+            >
+              {link.label}
+            </a>
+          );
+        })
+      }
+    </nav>
+  </details>
+</header>

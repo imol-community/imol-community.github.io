@@ -1,16 +1,16 @@
-# project
-_site
-.sass-cache
-.vagrant
+# Astro
+.astro/
+dist/
+node_modules/
 
-# general
+# local/editor
 .DS_Store
 Thumbs.db
 ehthumbs.db
-.bundle-user
-.ruby-version
-Gemfile.lock
+.idea/
 
-beautiful-jekyll-theme-*.gem
+# old local Ruby artifacts, if created while troubleshooting
 .bundle/
+.bundle-user/
+.ruby-gems/
 vendor/
