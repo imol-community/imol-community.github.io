@@ -20,7 +20,7 @@ autonomously acquire knowledge and skills <i>for their own sake</i>, through int
 In particular, IMOL focuses on the role of intrinsic motivations in supporting this process of autonomous development within embodied artificial agents. 
 
 This website is the major connecting portal for the IMOL community. It promotes the exchange of ideas, interactions, tools and cumulative results supporting the 
-enterprise towards more autonomous and versatile artificial agents.
+enterprise towards more autonomous and versatile artificial agents. You can also follow the IMOL seminars on the <a href="https://imol-seminars.github.io/" target="_blank">seminar website</a>.
 </div>
 
 
@@ -40,7 +40,7 @@ enterprise towards more autonomous and versatile artificial agents.
 Does your research intersect with the interests of IMOL? You can join the <a href="/community">IMOL community</a> and become a member by applying <a 
 href="/participate">here</a>. Members actively participate in keeping the community alive and flourishing via the organization of a diversity of events and discussions.
 You can join the google group <a href="https://groups.google.com/g/imol-community" target="_blank">here</a>: connect with a google account and ask to join!
+You can also join the IMOL Discord server <a href="https://discord.gg/FEyZsfvmTf" target="_blank">here</a>.
 </div>
-
 
 

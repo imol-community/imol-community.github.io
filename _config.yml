@@ -20,6 +20,7 @@ navbar-links:
   Participate: "participate"
   Jobs: "jobs"
   Resources: "resources"
+  Seminars: "https://imol-seminars.github.io/"
   Archive: "archive"
   Contact: "contact"
 
@@ -43,6 +44,7 @@ title-img: /assets/img/imol_logo.png
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "contact@imol-community.org"
+  discord: invite/FEyZsfvmTf
 #   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
 #   github: daattali
@@ -263,4 +265,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-

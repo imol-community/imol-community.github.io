@@ -8,6 +8,7 @@ subtitle: Join the IMOL community!
 <h3 style='margin-bottom: 15pt;'>Join the Mailing List</h3>
 <div style="font-size: 14pt; margin-bottom: 10pt">
 You can join the IMOL google group <a href="https://groups.google.com/g/imol-community">here</a>: connect with a google account and ask to join!
+You can also join the IMOL Discord server <a href="https://discord.gg/FEyZsfvmTf" target="_blank">here</a>.
 </div>
 
 <h3 style='margin-bottom: 15pt;'>Become a Member</h3>
@@ -57,6 +58,7 @@ IMOL Members can propose to the IMOL Board the organisation of activities releva
 <li>Organisation of summer schools</li>
 <li>Other innovative/creative initiatives (very welcome)</li>
 </ul>
+More information about the IMOL seminar series is available on the <a href="https://imol-seminars.github.io/" target="_blank">IMOL seminars website</a>.
 </div>
 
 <div style="font-size: 14pt; margin-bottom: 10pt">
