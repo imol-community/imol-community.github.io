@@ -50,9 +50,9 @@ src/
     manifesto.md       Manifesto page.
     community.md       Board and member information.
     participate.md     Mailing list, Discord, membership, and activities.
+    jobs.md            Open positions.
     resources.md       Literature/resources.
     archive.md         Past events page.
-    jobs.md            Hidden from navigation while empty, but still available at /jobs/.
     404.md             Not-found page.
   styles/
     global.css         Site-wide visual design and responsive rules.
@@ -74,6 +74,8 @@ The shared page structure and call-to-action buttons are in `src/layouts/PageLay
 
 The visual design is in `src/styles/global.css`.
 
+Job posting instructions live in `JOBS.md`.
+
 ## Current Navigation
 
 Visible navigation:
@@ -88,11 +90,7 @@ Visible navigation:
 
 Hidden but kept:
 
-- Jobs: available at `/jobs/`, hidden from navigation while empty.
-
-Removed from navigation:
-
-- Contact: contact links are in the footer.
+- Jobs: available at `/jobs/`, hidden from navigation until job ad URLs are ready.
 
 ## Dependency Hygiene
 
