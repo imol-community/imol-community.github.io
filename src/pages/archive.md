@@ -11,7 +11,7 @@ subtitle: Past activities of the IMOL community
 <div class='description' style='font-size: 14pt;'>
 
 <p><b>Conference IMOL 2025</b></p>
-<p>Location: Hertfordshire, France
+<p>Location: Hertfordshire, UK
 <br>Dates: 8th-10th of September 2025
 <br>Organisers: Nicola Catenacci Volpi, Christoph Salge, Daniel Polani, Gianluca Baldassarre, Vieri Giuliano Santucci
 <br>Website: <a href='https://imol2025.github.io/'>https://imol2025.github.io/</a>
@@ -57,7 +57,7 @@ subtitle: Past activities of the IMOL community
 <p><b>Conference IMOL 2019</b></p>
 <p>Location: Frankfurt, Germany
 <br>Dates: 1st-3rd of July 2019
-<br>Organisers: Kathryn kasmarick, Jochen Triesch, Vieri Giuliano Santucci, Gianluca Baldassarre
+<br>Organisers: Kathryn Kasmarick, Jochen Triesch, Vieri Giuliano Santucci, Gianluca Baldassarre
 </p>
 
 
