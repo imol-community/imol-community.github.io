@@ -12,11 +12,12 @@ title: Welcome to the IMOL Community
   <a class="button secondary" href="https://discord.gg/FEyZsfvmTf" target="_blank" rel="noreferrer">Join Discord</a>
 </div>
 
-[//]: # (<div class='description' style='font-size: 14pt; margin-top: 25pt'>)
+<div class='description' style='font-size: 14pt; margin-top: 25pt'>
 
-[//]: # (    <b>Join us at the IMOL Conference 2025 in Hertfordshire! Dates: 8-10 September. More info on the <a href="https://imol2025.github.io/" target="_blank">conference's website</a>. See the <a href="https://imol2025.github.io/pages/call/" target="_blank">call for paper</a>.</b>)
+<b>Join us at the IMOL Conference 2027 in Helsinki! Dates: 20-22 October, 2026. <br>
+More info on the <a href="https://imol2027.github.io/" target="_blank">conference's website</a>. Call for paper TBD.</b>
 
-[//]: # (</div>)
+</div>
 
 <h3 style='margin-bottom: 20pt;'>Intrinsically Motivated Open-Ended Learning</h3>
 
@@ -32,13 +33,13 @@ enterprise towards more autonomous and versatile artificial agents. You can also
 
 
 
-[//]: # (<h3 style='margin-bottom: 20pt;'>Upcoming Conference</h3>)
+<h3 style='margin-bottom: 20pt;'>Upcoming Conference</h3>
 
-[//]: # (<div class='description' style='font-size: 14pt;'>)
+<div class='description' style='font-size: 14pt;'>
 
-[//]: # (The next IMOL conference will take place in Hertfordshire on September 8 to 10, 2025. More info on the <a href="https://imol2025.github.io/" target="_blank">conference's website</a>.)
+The next IMOL conference will take place at Aalto University Helsinki on October 20 to 22, 2026. More info on the <a href="https://imol2027.github.io/" target="_blank">conference's website</a>.
 
-[//]: # (</div>)
+</div>
 
 
 <h3 style='margin-bottom: 20pt;'>Join Us!</h3>
