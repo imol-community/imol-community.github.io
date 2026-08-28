@@ -14,7 +14,7 @@ title: Welcome to the IMOL Community
 
 <div class='description' style='font-size: 14pt; margin-top: 25pt'>
 
-<b>Join us at the IMOL Symposium 2027 in Helsinki! Dates: Wed 20 – Friday 22 October, 2027. <br>
+<b>Join us at the IMOL Symposium 2027 in Helsinki! <br>Dates: Wed 20 – Friday 22 October, 2027. <br>
 More info on the <a href="https://imol2027.github.io/" target="_blank">symposium's website</a>. Call for paper TBD.</b>
 
 </div>
