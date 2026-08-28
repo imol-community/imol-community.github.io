@@ -10,7 +10,7 @@ subtitle: Past activities of the IMOL community
 <br>
 <div class='description' style='font-size: 14pt;'>
 
-<p><b>Conference IMOL 2025</b></p>
+<p><b>IMOL Symposium 2025</b></p>
 <p>Location: Hertfordshire, UK
 <br>Dates: 8th-10th of September 2025
 <br>Organisers: Nicola Catenacci Volpi, Christoph Salge, Daniel Polani, Gianluca Baldassarre, Vieri Giuliano Santucci
@@ -37,7 +37,7 @@ subtitle: Past activities of the IMOL community
 
 <br>
 
-<p><b>Conference IMOL 2023</b></p>
+<p><b>IMOL Symposium 2023</b></p>
 <p>Location: Paris, France
 <br>Dates: 13th-15th of September 2023
 <br>Organisers: Stéphane Doncieux, Georg Martius, Rania Rayyes, Vieri Giuliano Santucci, Gianluca Baldassarre
@@ -46,7 +46,7 @@ subtitle: Past activities of the IMOL community
 
 <br>
 
-<p><b>Conference IMOL 2022</b></p>
+<p><b>IMOL Symposium 2022</b></p>
 <p>Location: Tübingen, Germany
 <br>Dates: 4th-6th of April 2022
 <br>Organisers: Georg Martius, Rania Rayyes, Vieri Giuliano Santucci, Gianluca Baldassarre, Christian Gumbsch
@@ -54,7 +54,7 @@ subtitle: Past activities of the IMOL community
 
 <br>
 
-<p><b>Conference IMOL 2019</b></p>
+<p><b>IMOL Symposium 2019</b></p>
 <p>Location: Frankfurt, Germany
 <br>Dates: 1st-3rd of July 2019
 <br>Organisers: Kathryn Kasmarick, Jochen Triesch, Vieri Giuliano Santucci, Gianluca Baldassarre
@@ -63,7 +63,7 @@ subtitle: Past activities of the IMOL community
 
 <br>
 
-<p><b>Conference IMOL 2017</b></p>
+<p><b>IMOL Symposium 2017</b></p>
 <p>Location: Rome, Italy
 <br>Dates: 4th-6th of October 2017
 <br>Organisers: Vieri Giuliano Santucci, Gianluca Baldassarre, Andrew Barto, Pierre-Yves Oudeyer

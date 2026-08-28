@@ -50,7 +50,7 @@ your own IMOL-related scientific events</li>
 IMOL Members can propose to the IMOL Board the organisation of activities relevant for the IMOL community, to be carried out under the ‘IMOL brand’. These include: 
 
 <ul style="margin-top: 10pt">
-<li>Participation in conferences with the organisation of workshops, demonstrations, tutorials, focus days, etc.</li>
+<li>Participation in symposiums with the organisation of workshops, demonstrations, tutorials, focus days, etc.</li>
 <li>Organisation of journal special issues</li>
 <li>Organisation of seminars or talks</li>
 <li>Organisation of competitions</li>
