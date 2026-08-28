@@ -37,7 +37,7 @@ enterprise towards more autonomous and versatile artificial agents. You can also
 
 <div class='description' style='font-size: 14pt;'>
 
-The next IMOL symposium will take place at Aalto University Helsinki on October 20–22, 2027. More info on the <a href="https://imol2027.github.io/" target="_blank">symposium's website</a>.
+The next IMOL symposium will take place at Aalto University in Helsinki on October 20–22, 2027. More info on the <a href="https://imol2027.github.io/" target="_blank">symposium's website</a>.
 
 </div>
 
