@@ -14,7 +14,7 @@ title: Welcome to the IMOL Community
 
 <div class='description' style='font-size: 14pt; margin-top: 25pt'>
 
-<b>Join us at the IMOL Symposium 2027 in Helsinki! Dates: 20-22 October, 2027. <br>
+<b>Join us at the IMOL Symposium 2027 in Helsinki! Dates: Wed 20 – Friday 22 October, 2027. <br>
 More info on the <a href="https://imol2027.github.io/" target="_blank">symposium's website</a>. Call for paper TBD.</b>
 
 </div>
@@ -37,7 +37,7 @@ enterprise towards more autonomous and versatile artificial agents. You can also
 
 <div class='description' style='font-size: 14pt;'>
 
-The next IMOL symposium will take place at Aalto University Helsinki on October 20 to 22, 2027. More info on the <a href="https://imol2027.github.io/" target="_blank">symposium's website</a>.
+The next IMOL symposium will take place at Aalto University Helsinki on October 20–22, 2027. More info on the <a href="https://imol2027.github.io/" target="_blank">symposium's website</a>.
 
 </div>
 
